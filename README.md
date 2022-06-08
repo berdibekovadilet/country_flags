@@ -1,11 +1,11 @@
-# React Todo App with color theme switcher solution using React, Redux, Routes, Countries API and styled-components
+# React App with color theme switcher using React, Redux, Routes, Countries API and styled-components
 # Live
 
 
 # Covers
-![cover](cover/1.jpg)
-![cover2](cover/2.jpg)
-![cover3](cover/3.jpg)
+![cover](design/desktop-preview.jpg)
+![cover2](desktop-design-home-light.jpg)
+![cover3](desktop-design-detail-light.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
