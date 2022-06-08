@@ -4,8 +4,8 @@
 
 # Covers
 ![cover](design/desktop-preview.jpg)
-![cover2](desktop-design-home-light.jpg)
-![cover3](desktop-design-detail-light.jpg)
+![cover2](design/desktop-design-home-light.jpg)
+![cover3](design/desktop-design-detail-light.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
